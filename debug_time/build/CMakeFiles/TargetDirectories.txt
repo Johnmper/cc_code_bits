@@ -1,0 +1,3 @@
+/home/johnmper/Documents/gits/cc_code_bits/debug_time/build/CMakeFiles/edit_cache.dir
+/home/johnmper/Documents/gits/cc_code_bits/debug_time/build/CMakeFiles/rebuild_cache.dir
+/home/johnmper/Documents/gits/cc_code_bits/debug_time/build/CMakeFiles/debug_time.dir

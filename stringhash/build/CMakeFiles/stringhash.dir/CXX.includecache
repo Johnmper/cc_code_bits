@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/johnmper/Documents/gits/cc_code_bits/stringhash/main.cc
+iostream
+-
+iomanip
+-
+fstream
+-
+sstream
+-
+string
+-
+cstring
+-
+chrono
+-
+vector
+-
+numeric
+-
+algorithm
+-
+functional
+-
+

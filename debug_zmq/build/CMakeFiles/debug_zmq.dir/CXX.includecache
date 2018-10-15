@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/johnmper/Documents/gits/cc_code_bits/debug_zmq/main.cc
+iostream
+-
+vector
+-
+zmq.hpp
+-
+msgpack.hpp
+-
+

@@ -1,0 +1,3 @@
+/home/johnmper/Documents/gits/cc_code_bits/debug_zmq/build/CMakeFiles/edit_cache.dir
+/home/johnmper/Documents/gits/cc_code_bits/debug_zmq/build/CMakeFiles/rebuild_cache.dir
+/home/johnmper/Documents/gits/cc_code_bits/debug_zmq/build/CMakeFiles/debug_zmq.dir

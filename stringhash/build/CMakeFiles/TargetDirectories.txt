@@ -1,0 +1,3 @@
+/home/johnmper/Documents/gits/cc_code_bits/stringhash/build/CMakeFiles/edit_cache.dir
+/home/johnmper/Documents/gits/cc_code_bits/stringhash/build/CMakeFiles/rebuild_cache.dir
+/home/johnmper/Documents/gits/cc_code_bits/stringhash/build/CMakeFiles/stringhash.dir

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/johnmper/Documents/gits/cc_code_bits/debug_time/debug_time.cc
+debug_time.hh
+/home/johnmper/Documents/gits/cc_code_bits/debug_time/debug_time.hh
+
+/home/johnmper/Documents/gits/cc_code_bits/debug_time/debug_time.hh
+iostream
+-
+vector
+-
+functional
+-
+map
+-
+chrono
+-
+
+/home/johnmper/Documents/gits/cc_code_bits/debug_time/main.cc
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+functional
+-
+debug_time.hh
+/home/johnmper/Documents/gits/cc_code_bits/debug_time/debug_time.hh
+
