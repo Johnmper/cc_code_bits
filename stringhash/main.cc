@@ -12,12 +12,15 @@
 
 
 size_t string2hash(std::string str){
+
     static int sz=str.size();
     size_t ret=0;
+    
     for(int ii=0;ii<sz;++ii){
         ret+=str[ii];
     }
     return ret;
+
 }
 
 constexpr uint32_t HashStrRecur(uint32_t _hash, const char* _str)
@@ -50,8 +53,8 @@ int main(int argc, char** argv){
             size_t hashed_tmp=0;
             const char* hash_str = line.c_str();
             t1 = std::chrono::high_resolution_clock::now();
-            //hashed_tmp = std::hash<std::string>{}(line);
-            hashed_tmp = string2hash(line);
+            hashed_tmp = std::hash<std::string>{}(line);
+            //hashed_tmp = string2hash(line);
             //hashed_tmp = HashStr(hash_str);
             t2 = std::chrono::high_resolution_clock::now();
             timed.push_back(std::chrono::duration_cast<std::chrono::nanoseconds>(t2-t1).count());
