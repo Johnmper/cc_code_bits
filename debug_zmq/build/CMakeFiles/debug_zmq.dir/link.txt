@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/debug_zmq.dir/main.cc.o  -o debug_zmq -rdynamic -lzmq 

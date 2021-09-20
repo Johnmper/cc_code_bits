@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/pupil_visitor.dir/ros_types.cc.o CMakeFiles/pupil_visitor.dir/gaze_visitor.cc.o CMakeFiles/pupil_visitor.dir/main.cc.o CMakeFiles/pupil_visitor.dir/pupil_visitor.cc.o  -o pupil_visitor -rdynamic -lzmq 
